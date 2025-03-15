@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.aec.plus/</id>
+    <title>AEC+ Blog Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.aec.plus/"/>
+    <subtitle>AEC+ Blog Blog</subtitle>
+    <icon>https://blog.aec.plus/img/favicon.ico</icon>
+    <rights>Copyright © 2025 AEC Plus</rights>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://blog.aec.plus/welcome</id>
+        <link href="https://blog.aec.plus/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A blog on AEC Technology]]></summary>
+        <content type="html"><![CDATA[<p>A blog on AEC Technology</p>]]></content>
+        <author>
+            <name>Abhijeet Singh</name>
+            <uri>https://aec.plus</uri>
+        </author>
+        <category label="AEC" term="AEC"/>
+    </entry>
+</feed>

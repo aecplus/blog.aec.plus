@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AEC+ Blog Blog",
+    "home_page_url": "https://blog.aec.plus/",
+    "description": "AEC+ Blog Blog",
+    "items": [
+        {
+            "id": "https://blog.aec.plus/welcome",
+            "content_html": "<p>A blog on AEC Technology</p>",
+            "url": "https://blog.aec.plus/welcome",
+            "title": "Welcome",
+            "summary": "A blog on AEC Technology",
+            "date_modified": "2021-08-26T00:00:00.000Z",
+            "author": {
+                "name": "Abhijeet Singh",
+                "url": "https://aec.plus"
+            },
+            "tags": [
+                "AEC"
+            ]
+        }
+    ]
+}

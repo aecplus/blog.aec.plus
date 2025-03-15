@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_aec_plus=self.webpackChunkblog_aec_plus||[]).push([[32],{8322:e=>{e.exports=JSON.parse('{"authors":[{"name":"Abhijeet Singh","title":"Writer","url":"https://aec.plus","page":{"permalink":"/authors/aj"},"socials":{"linkedin":"https://www.linkedin.com/in/aecabhijeet/"},"imageURL":"https://github.com/aecabhijeet.png","key":"aj","count":1}]}')}}]);

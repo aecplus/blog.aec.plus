@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_aec_plus=self.webpackChunkblog_aec_plus||[]).push([[434],{6119:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/","page":1,"postsPerPage":5,"totalPages":1,"totalCount":1,"blogDescription":"A blog about architecture, engineering, and construction","blogTitle":"AEC Plus Blog"}}')}}]);

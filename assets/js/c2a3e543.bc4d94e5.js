@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_aec_plus=self.webpackChunkblog_aec_plus||[]).push([[885],{2937:e=>{e.exports=JSON.parse('{"tags":[{"label":"AEC","permalink":"/tags/AEC","description":"Architecture, Engineering, and Construction","count":1}]}')}}]);
