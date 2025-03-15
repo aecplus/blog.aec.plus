@@ -1,19 +1,49 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+AEC:
+  label: 'AEC'
+  permalink: '/AEC'
+  description: 'Architecture, Engineering, and Construction'
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+BIM:
+  label: 'BIM'
+  permalink: '/BIM'
+  description: 'Building Information Modeling'
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+AI:
+  label: 'AI'
+  permalink: '/AI'
+  description: 'Artificial Intelligence and Machine Learning'
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+automation:
+  label: 'Automation'
+  permalink: '/automation'
+  description: 'Automated systems and processes improving efficiency in architecture, engineering, and construction'
+
+robotics:
+  label: 'Robotics'
+  permalink: '/robotics'
+  description: 'Robotic applications and advancements in construction and building operations'
+
+drone:
+  label: 'Drone Technology'
+  permalink: '/UAV'
+  description: 'UAV applications for site surveys, inspections, and monitoring in construction projects'
+
+3d-printing:
+  label: '3D Printing'
+  permalink: '/3d-printing'
+  description: 'Additive manufacturing techniques for building components and architectural models'
+
+vr-ar:
+  label: 'VR/AR'
+  permalink: '/vr-ar'
+  description: 'Virtual and augmented reality applications in design, construction, and client presentations'
+
+iot:
+  label: 'IoT'
+  permalink: '/iot'
+  description: 'Internet of Things integration in smart buildings and construction sites'
+
+computational-design:
+  label: 'Computational Design'
+  permalink: '/computational-design'
+  description: 'Algorithmic and parametric design approaches in architecture, engineering, and construction'
