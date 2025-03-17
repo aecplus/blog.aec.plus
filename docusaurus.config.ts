@@ -44,8 +44,8 @@ const config: Config = {
         }*/,
         blog: {
           routeBasePath: '/',
-          blogTitle: 'AEC Plus Blog',
-          blogDescription: 'A blog about architecture, engineering, and construction',
+          blogTitle: '',
+          blogDescription: 'A blog about architecture, engineering, and construction technlogy',
           showReadingTime: true,
           postsPerPage: 5,
           feedOptions: {
@@ -55,8 +55,8 @@ const config: Config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          //editUrl:
+          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -129,7 +129,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} AEC+`,
+      copyright: `Copyright © 2018-${new Date().getFullYear()} AEC+`,
     },
     prism: {
       theme: prismThemes.github,
